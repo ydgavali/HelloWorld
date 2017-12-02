@@ -7,6 +7,7 @@ public class TestWelcome {
 		welcome.setMsg("Hello World");
 		
 		System.out.println(welcome.getMsg());
+		//comment added in test1 branch
 	}
 	
 }

@@ -1,6 +1,7 @@
 package com.ydg;
 
 public class Welcome {
+	//comment added in test1 branch
 	private String msg;
 
 	public String getMsg() {
